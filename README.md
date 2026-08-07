@@ -1,10 +1,8 @@
 # MINIGUIA DE ESTUDOS-NOTEBOOKLM - INTELIGENCIA ARTIFICIAL: HISTORIA E EVOLUÇÃO.
 
-CONTEXTO: O mini guia traz em si a historia e aspectos que formaram a respeito do tema Inteligência Artificial, assim como as fases e a sua evolução em si, abordando desde os primórdios nos anos 40 até os dias atuais. Estes documentos apresentam uma cronologia detalhada da IA, desde os primeiros modelos matemáticos de neurónios na década de 1940 até ao surgimento da IA generativa e agentes autónomos. O material funciona, em última análise, como um segundo cérebro estruturado para compreender a rápida progressão e o funcionamento técnico das tecnologias de IA atuais.
-
-
 OBJETIVO: Elucidar a respeito da história e evolução do que entendemos hoje como Inteligência Artificial.
 
+CONTEXTO: O mini guia traz em si a historia e aspectos que formaram a respeito do tema Inteligência Artificial, assim como as fases e a sua evolução em si, abordando desde os primórdios nos anos 40 até os dias atuais. Estes documentos apresentam uma cronologia detalhada da IA, desde os primeiros modelos matemáticos de neurónios na década de 1940 até ao surgimento da IA generativa e agentes autónomos. O material funciona, em última análise, como um segundo cérebro estruturado para compreender a rápida progressão e o funcionamento técnico das tecnologias de IA atuais.
 
 
 LINKS QUE SERVIRAM DE BASE DE DADOS PARA ESSE MATERIAL:
